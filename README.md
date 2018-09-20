@@ -11,4 +11,4 @@ Soon, I would like to extend the application to a more general cellular automato
 Eye candy/polishing the graphics
 * Animation of dying/reviving cells
 * Color scheme that will reflect the cell state (for more general celular automata)
-* PyQR library
+* PyQT library instead of tkinter
