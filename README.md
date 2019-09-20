@@ -14,4 +14,8 @@ The application depends on Tkinter and Numpy. You would have to install them fir
 
 Go to the src folder and simply launch life.py (don't forget to modify the execute privileges)
 
+After starting the application, there is an empty board. Activate some cells by clicking on them.
+Then hit start.
+You can add cells also when the simulation is running.
+
 
