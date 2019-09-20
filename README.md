@@ -4,11 +4,14 @@ This is a simple hobby implementation of Conway's Game of Life cellular automato
 The intent of this application is to learn basics of Python programming language
 and creating GUI applications in Python (tkinter).
 
-Soon, I would like to extend the application to a more general cellular automaton, i.e.
-* Strategy pattern for checking Moore neighborhood/von Neumann neighborhood
-* Strategy pattern for checking boundary conditions
+## Before the fun starts
 
-Eye candy/polishing the graphics
-* Animation of dying/reviving cells
-* Color scheme that will reflect the cell state (for more general celular automata)
-* PyQT library instead of tkinter
+The application depends on Tkinter and Numpy. You would have to install them first. 
+* Tkinter: On *Ubuntu, run `apt install python3-tk`
+* Numpy: `pip3 install numpy`
+
+## Running the application
+
+Go to the src folder and simply launch life.py (don't forget to modify the execute privileges)
+
+
